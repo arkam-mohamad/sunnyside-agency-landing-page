@@ -1,1 +1,23 @@
+.color{
+  color: hsl(212, 27%, 19%);
+  color: hsl(213, 9%, 39%);
+  color: hsl(232, 10%, 55%);
+  color: hsl(210, 4%, 67%);
+} 
+*{
+  margin: 0;
+  font-family: 'Fraunces', serif;
+}
+header{
+  background-image: url('./images/desktop/image-header.jpg');
+  /* height: 600px; */
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* min-width: 100%; */
+}
 
+
+p{
+  font-family: 'Barlow', sans-serif;
+}
